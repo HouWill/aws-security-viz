@@ -32,3 +32,5 @@ opts.yml
 
 .vagrant
 Gemfile.lock
+
+viz.svg
